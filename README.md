@@ -1,0 +1,1 @@
+# plugins-de-updraftplus-backup-exclude-image-thumbnails
