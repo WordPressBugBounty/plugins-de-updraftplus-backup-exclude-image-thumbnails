@@ -8,7 +8,7 @@
  * @wordpress-plugin
  * Plugin Name:       Exclude Image Thumbnails From UpdraftPlus Backups
  * Description:       A small plugin to exclude WordPress generated image thumbnails from Updraft backups.
- * Version:           1.0.3
+ * Version:           1.0.4
  * Author:            Dream-Encode
  * Author URI:        https://dream-encode.com
  * License:           GPL-2.0+
